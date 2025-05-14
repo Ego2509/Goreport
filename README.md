@@ -1,3 +1,9 @@
+# About this fork
+
+This fork is a spanish translation of the tool. The master/main branch is left unchanged.
+
+---
+
 # Goreport v3.0, a Gophish Reporting Tool
 
 This script accepts your Gophish campaign ID(s) as a parameter and then collects the campaign results to present the statistics and perform user-agent parsing and geolocation lookups for IP addresses. Goreport generates lists of IP addresses, operating systems, browser types and versions, and locations with counts for the number of times each one was seen throughout the campaign.
